@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(143, 191, 255);
+    font-family: "Georgia", "Times New Roman", serif;
+}
+
+h1 {
+    color: rgb(0, 105, 243);
+}
+
+.ingredients {
+    background-color: rgb(255, 255, 255);
+    font-size: 18px;
+}
+
+.steps {
+    background-color: rgb(255, 255, 255);
+    font-size: 18px;
+}
+
+.home {
+    background-color: rgb(255, 255, 255);
+}
